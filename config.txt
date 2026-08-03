@@ -1,0 +1,6 @@
+Application Configuration
+API_KEY=test_api_key_123456789
+PASSWORD=DemoPassword123
+AWS_SECRET=test_secret_value_98765
+DATABASE_PASSWORD=DemoDBPassword
+ACCESS_TOKEN=dummy_token_abcdef
