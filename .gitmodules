@@ -1,0 +1,3 @@
+[submodule "labs/damn-vulnerable-MCP-server"]
+	path = labs/damn-vulnerable-MCP-server
+	url = https://github.com/harishsg993010/damn-vulnerable-MCP-server.git
